@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makoshar&label=Profile%20views&color=0e75b6&style=flat" alt="makoshar" /> </p>
 
-- 🔭 I’m currently working on **Awoken**
+- 🔭 I'm working on Subsidy **Leakage Detection system**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/anoop-verma/home](https://sites.google.com/view/anoop-verma/home)
 
-- 💬 Ask me about **Android , Unreal**
+- 💬 Ask me about **Python dsa, Unreal**
 
 - 📫 How to reach me **ianoopverma803@gmail.com**
 
