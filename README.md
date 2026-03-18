@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makoshar&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="makoshar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makoshar&show_icons=true&locale=en" alt="makoshar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makoshar&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="makoshar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makoshar&theme=tokyonight&hide_border=true" alt="makoshar" /></p>
